@@ -11,14 +11,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-#
-我
+#我
 
-##
-知道吗
+##知道吗
 
-###
-我不需昂书
+###我不需昂书
 
 - Bulleted
 - List
