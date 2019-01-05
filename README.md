@@ -9,9 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is 123456789
 
 # 1
-
 ## 2
-
 ### 3
 
 
