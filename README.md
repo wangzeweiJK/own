@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/wangzeweiJK/own/edit/maste
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-# 我没有
+## 我没有
 
 Markdown is 123456789
 
