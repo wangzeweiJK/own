@@ -13,9 +13,6 @@ Syntax highlighted code block
 
 #我
 
-##知道吗
-
-###我不需昂书
 
 - Bulleted
 - List
